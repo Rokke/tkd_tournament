@@ -1,0 +1,1 @@
+flutter pub global run dcdg -o out\docs\model.puml -s lib\model
